@@ -36,8 +36,8 @@ MongoDB – NoSQL database
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/shuchitamathur28/mern-restaurant-management.git 
-cd mern-restaurant-management
+git clone https://github.com/shuchitamathur28/MERN-Task-Manager.git
+cd MERN-Task-Manager
 
 2️⃣ Install Backend Dependencies
 
@@ -53,7 +53,8 @@ npm install
 
 Create a .env file in the backend folder and add:
 
-MONGO_URI=your_mongodb_connection_string JWT_SECRET=your_jwt_secret_key STRIPE_SECRET=your_stripe_secret_key
+MONGO_URI=your_mongodb_connection_string 
+JWT_SECRET=your_jwt_secret_key 
 
 5️⃣ Start the Backend Server
 
